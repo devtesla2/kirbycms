@@ -1,0 +1,3 @@
+web1: #component type & number
+  name: gamingDogs            #component settings
+  php_extensions: [mbstring]
